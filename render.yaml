@@ -1,0 +1,14 @@
+databases:
+  - name: staffsphere-mysql
+    databaseName: staffsphere
+    user: staffsphere_user
+    plan: free
+    region: oregon
+
+services:
+  - type: web
+    name: staffsphere-backend
+    env: docker
+    repo: https://github.com/sohail9290/Staff-Sphere
+    rootDir: backend
+    plan: free
