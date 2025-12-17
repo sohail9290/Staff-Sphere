@@ -136,6 +136,6 @@ Java
 
 ## 👨‍💻 Author
 
-**Sohail Khan Pattan** 
+Sohail Khan Pattan
 Full Stack Software Engineer
 Spring Boot • REST APIs • React
