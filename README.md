@@ -133,9 +133,11 @@ Java
 - Input validation and centralized error handling
 - Caching and performance optimization
 - Containerization with Docker
-
+---
 ## 👨‍💻 Author
 
-Sohail Khan Pattan
-Full Stack Software Engineer
+**Sohail Khan Pattan**  
+Full Stack Software Engineer  
 Spring Boot • REST APIs • React
+
+
