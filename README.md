@@ -94,22 +94,25 @@ Java
 
 ### 👨‍💼 Employee APIs
 
-Method	Endpoint	Responsibility
-POST	/api/employees	Create employee
-GET	/api/employees	Retrieve all employees
-GET	/api/employees/{id}	Retrieve employee by ID
-PUT	/api/employees/{id}	Update employee
-DELETE	/api/employees/{id}	Delete employee
+| Method | Endpoint               | Responsibility              |
+|--------|------------------------|-----------------------------|
+| POST   | `/api/employees`       | Create employee             |
+| GET    | `/api/employees`       | Retrieve all employees      |
+| GET    | `/api/employees/{id}`  | Retrieve employee by ID     |
+| PUT    | `/api/employees/{id}`  | Update employee             |
+| DELETE | `/api/employees/{id}`  | Delete employee             |
+
 
 ### 🏢 Department APIs
-Method	Endpoint	Responsibility
-POST	/api/departments	Create department
-GET	/api/departments	Retrieve all departments
-GET	/api/departments/{id}	Retrieve department by ID
-PUT	/api/departments/{id}	Update department
-DELETE	/api/departments/{id}	Delete department
----
 
+| Method | Endpoint                  | Responsibility              |
+|--------|---------------------------|-----------------------------|
+| POST   | `/api/departments`        | Create department           |
+| GET    | `/api/departments`        | Retrieve all departments    |
+| GET    | `/api/departments/{id}`   | Retrieve department by ID   |
+| PUT    | `/api/departments/{id}`   | Update department           |
+| DELETE | `/api/departments/{id}`   | Delete department           |
+---
 ## 🧪 Local Setup
 ### Backend
 - Clone the repository
